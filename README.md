@@ -7,6 +7,7 @@
 
 
 **Technologies** C#, Unity, Blender
+
 **Responsibilities**
 - Code for timer, nectar spawning, and scene structure
 - Art for models and UI
